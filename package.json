@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "homepage": "https://krn077.github.io/karansabharwal07/",
+  "homepage": "https://krn077.github.io/karansabharwal07/resume-ui",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
