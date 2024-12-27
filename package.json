@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "homepage": "https://karansabharwal07.github.io",
+  "homepage": "https://krn077.github.io/karansabharwal07/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
